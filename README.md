@@ -62,15 +62,18 @@ engineer who ships tested, governed, reproducible systems.
 
 ## Featured work
 
-Self-contained, **runnable** demonstrations built on 100% synthetic data (a fictional
-"Northwind Property Group"). They show the techniques I use in real engagements — with **no
-client or private information**.
+Self-contained, **runnable** demonstrations built on 100% synthetic data. They show the
+techniques I use in real engagements — with **no client or private information**.
 
 | Repository | What it demonstrates |
 |---|---|
 | **[datamind-powerbi-analytics](https://github.com/datamindbi/datamind-powerbi-analytics)** | Power BI semantic model (PBIP/TMDL) + a documented DAX measure library — NOI, occupancy, collection rate, rolling-12, YoY. |
 | **[datamind-consulting-cli](https://github.com/datamindbi/datamind-consulting-cli)** | Tested, governed Python back-office automation — hours rollups, draft invoicing, revenue export, a data-masking guard, and Quarto reporting. |
 | **[datamind-ai-agents](https://github.com/datamindbi/datamind-ai-agents)** | Multi-agent AI orchestration + a working MCP server exposing business data as tools, with a draft-only ("propose, never auto-send") safety doctrine. |
+| **[datamind-fieldservice-suite](https://github.com/datamindbi/datamind-fieldservice-suite)** | A single-file, offline CRM + invoice generator + receipt tracker built for a non-technical field-service owner — print-perfect invoices, real bank/card CSV reconciliation, zero install. A sanitized copy of a real client deliverable. |
+
+> The Power BI, CLI, and agents demos share a fictional "Northwind Property Group" universe;
+> the field-service suite uses its own fictional "Anvil Mobile Machining" demo data.
 
 ---
 
